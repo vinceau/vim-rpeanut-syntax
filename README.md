@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a vim plugin provides extremely basic syntax highlighting for ANU's [rPeANUt][rpn] Computer and Assembler.
+This vim plugin provides extremely basic syntax highlighting for ANU's [rPeANUt][rpn] Computer and Assembler.
 
 ## Installation
 
