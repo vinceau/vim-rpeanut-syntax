@@ -4,6 +4,8 @@
 
 This vim plugin provides extremely basic syntax highlighting for ANU's [rPeANUt][rpn] Computer and Assembler.
 
+The plugin detects the `.s` file extension and can highlight keywords, constants, comments, registers among other things.
+
 ## Installation
 
 ### Using [Vundle][v]
